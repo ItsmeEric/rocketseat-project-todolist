@@ -13,3 +13,8 @@
 - H2 database
 - Lombok
 - Maven
+
+### Deploy
+
+- Docker
+- Render
